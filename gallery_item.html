@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <title>Title</title>
+    <meta charset="utf-8">
+    <!--[if IE]>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <![endif]-->
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/main.css" id="color-switcher-link">
+    <link rel="stylesheet" href="css/animations.css">
+    <link rel="stylesheet" href="css/fonts.css">
+    <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+
+    <!--[if lt IE 9]>
+        <script src="js/vendor/html5shiv.min.js"></script>
+        <script src="js/vendor/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<body>
+
+    <div class="preloader">
+        <div class="preloader_image"></div>
+    </div>
+
+    <!--[if lt IE 9]>
+        <div class="bg-danger text-center">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="highlight">upgrade your browser</a> to improve your experience.</div>
+    <![endif]-->
+
+<!-- search modal -->
+<div class="modal" tabindex="-1" role="dialog" aria-labelledby="search_modal" id="search_modal">
+    <div class="widget widget_search">
+        <form method="get" class="searchform form-inline" action="/">
+            <div class="form-group">
+                <input type="text" value="" name="search" class="form-control" placeholder="Search keyword" id="modal-search-input">
+            </div>
+            <button type="submit" class="theme_button">Search</button>
+        </form>
+    </div>
+</div>
+
+<!-- wrappers for visual page editor and boxed version of template -->
+<div id="canvas">
+<div id="box_wrapper">
+
+<!-- template sections -->
+
+<header class="page_header">
+	<div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-3 col-xs-5 header-logo">
+            	<a href="index.html">
+                    <img src="images/logo.png" alt="Chiropracter logo" class="site-logo">
+                </a>
+                <div class="site-name">
+                    <p><strong>Ashlee Stanton’s</strong></p>
+                    <h2>CHIROPRACTOR</h2>
+                </div>
+
+            </div>
+            <div class="col-lg-6 col-xs-2 text-center">
+                <!-- main nav start -->
+                <nav class="mainmenu_wrapper">
+                    <ul class="mainmenu sf-menu">
+                        <li class="active">
+                            <a href="index.html">Home</a>
+                        </li>
+
+                        <li>
+                            <a href="about.html">Pages</a> 
+                            <ul>
+                                <li>
+                                    <a href="#">Shortcodes</a>
+                                    <ul>
+                                        <li>
+                                            <a href="shortcodes_teasers.html">Teasers</a>
+                                        </li>
+                                        <li>
+                                            <a href="shortcodes_buttons.html">Buttons</a>
+                                        </li>
+                                        <li>
+                                            <a href="shortcodes_progress.html">Progress</a>
+                                        </li>
+                                        <li>
+                                            <a href="shortcodes_socialicons.html">Social Icons</a>
+                                        </li>
+                                        <li>
+                                            <a href="shortcodes_tabs.html">Tabs &amp; Collapse</a>
+                                        </li>
+                                        <li>
+                                            <a href="shortcodes_bootstrap.html">Bootstrap Elements</a>
+                                        </li>
+                                        <li>
+                                            <a href="shortcodes_typography.html">Typography</a>
+                                        </li>
+                                        <li>
+                                            <a href="shortcodes_widgets.html">Widgets</a>
+                                        </li>
+                                        <li>
+                                            <a href="shortcodes_animation.html">Animation</a>
+                                        </li>
+                                        <li>
+                                            <a href="shortcodes_icons.html">Template Icons</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="about.html">About</a>
+                                </li>
+                                <li>
+                                    <a href="404.html">404</a>
+                                </li>
+                                <li>
+                                    <a href="faq.html">FAQ</a>
+                                </li>
+                                <li>
+                                    <a href="services.html">Services</a>
+                                </li>
+                                <li>
+                                    <a href="service_details.html">Service Details</a>
+                                </li>
+                            </ul>     
+                        </li>      
+                        <li>
+                            <a href="gallery_regular.html">Gallery</a>
+                            <ul>
+                                <li>
+                                    <a href="gallery_regular.html">Gallery Regular</a>
+                                </li>
+                                <li>
+                                    <a href="gallery_fullwidth.html">Gallery Fullwidth</a>
+                                </li>
+                                <li>
+                                    <a href="gallery_extended.html">Gallery Exteded</a>
+                                </li>
+                                <li>
+                                    <a href="gallery_item.html">Gallery Item</a>
+                                </li>
+                            </ul>  
+                        </li>
+                        <li>
+                            <a href="blog-full.html">Blog</a>
+                            <ul>
+                                <li>
+                                    <a href="blog-full.html">No Sidebar</a>
+                                </li>
+                                <li>
+                                    <a href="blog-right.html">Right Sidebar</a>
+                                </li>
+                                <li>
+                                    <a href="blog-left.html">Left Sidebar</a>
+                                </li>
+                                <li>
+                                    <a href="blog-single-full.html">Blog Post</a>
+                                    <ul>
+                                        <li>
+                                            <a href="blog-single-full.html">No Sidebar</a>
+                                        </li>
+                                        <li>
+                                            <a href="blog-single-right.html">Right Sidebar</a>
+                                        </li>
+                                        <li>
+                                            <a href="blog-single-left.html">Left Sidebar</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="blog-single-video-full.html">Blog Video Post</a>
+                                    <ul>
+                                        <li>
+                                            <a href="blog-single-video-full.html">No Sidebar</a>
+                                        </li>
+                                        <li>
+                                            <a href="blog-single-video-right.html">Right Sidebar</a>
+                                        </li>
+                                        <li>
+                                            <a href="blog-single-video-left.html">Left Sidebar</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul> 
+                        </li>
+                        <li>
+                            <a href="contact.html">Contact</a>
+                        </li>
+                        <li>
+                            <a href="appointment.html">Appointment</a>
+                        </li>
+                    </ul>
+                </nav>
+                <!-- eof main nav -->
+                <span class="toggle_menu"><span></span></span>
+            </div>
+            <div class="col-lg-3 col-xs-5 text-right">
+                <div class="header-contacts">
+                    <span><span>0(800)</span> 253 76 84</span>
+                    <a href="#" class="social-icon img-bg-icon rounded-icon soc-facebook"></a>
+                    <a href="#" class="social-icon img-bg-icon rounded-icon soc-twitter"></a>
+                    <a href="#" class="social-icon img-bg-icon rounded-icon soc-skype"></a>
+                    <p>Call 24/7 or <a href="#">chiropractor@support.com</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<section class="page_breadcrumbs section_padding_bottom_30">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 text-center">
+                <h1 class="text-uppercase">Galley Item</h1>
+                <ol class="breadcrumb">
+                    <li>
+                        <a href="/">
+                            HomePage
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">Gallery</a>
+                    </li>
+                    <li class="active">Galley Item</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="gallery-page section_padding_v120 ls ms">
+	<div class="container">
+		<div class="row">
+
+			<div class="col-md-12 text-center">
+
+				<h1 class="entry-title gallery-single-title">
+					Image Title
+				</h1>
+
+				<div class="categories-links margin-b60">
+                    <a rel="category" href="#">chiroplastic</a>
+                </div>
+				
+				<div class="vertical-item gallery-extended-item with_background">
+					<div class="item-media">
+						<img src="images/gallery/gallery01.jpg" alt="">
+					</div>
+					<div class="item-content text-center">
+
+						<p class="important grey">
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste placeat, deleniti. Veritatis, praesentium, et! Voluptate iusto aliquid quis, optio dolore quas non eveniet aut.
+						</p>
+
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque debitis fuga eum, velit deleniti perferendis fugit necessitatibus inventore expedita accusantium animi provident aspernatur, accusamus in nobis illo? Exercitationem, deserunt esse.
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet minima laboriosam dolores sunt pariatur quia, non maxime excepturi expedita, animi rem earum temporibus quidem molestias. Aut blanditiis, nulla esse accusamus.
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet minima laboriosam dolores sunt pariatur quia, non maxime excepturi expedita, animi rem earum temporibus quidem molestias. Aut blanditiis, nulla esse accusamus.
+						</p>
+						
+						<div class="share-gallery-single">
+                            <a href="#" class="social-icon img-bg-icon rounded-icon soc-facebook"></a>
+                            <a href="#" class="social-icon img-bg-icon rounded-icon soc-twitter"></a>
+                            <a href="#" class="social-icon img-bg-icon rounded-icon soc-google"></a>
+                            <a href="#" class="social-icon img-bg-icon rounded-icon soc-tumblr"></a>
+						</div>
+
+					</div>
+				</div>
+				
+
+			</div>
+
+		</div>
+	</div>
+</section>
+
+<section class="gallery-page with-background gallery-single-slider section_padding_bottom_100 ls ms">
+<div class="related-photos-carousel" 
+    data-margin="0" 
+    data-nav="true" 
+    data-loop="true" 
+    data-items="4"
+    data-autoplay="false"
+    data-responsive-xs="1"
+    data-responsive-sm="2"
+    data-responsive-md="3"
+    data-responsive-lg="4">
+		
+	<div class="isotope-item with_background">
+        <div class="vertical-item gallery-title-item content-absolute">
+            <div class="item-media">
+                <img src="images/gallery/gallery01.jpg" alt="">
+                <div class="media-links">
+                    <div class="links-wrap">
+                        <span class="btn-type2 date-btn">03.02</span>
+                        <a href="#" class="btn-type2 comment-btn">269</a>
+                        <a href="#" class="btn-type2 like-btn">356</a>
+                        <a href="images/gallery/gallery01.jpg" class="btn-type2 add-btn p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="item-title text-center">
+            <h3>
+                <a href="#">Sadipscing elitr sed</a>
+            </h3>
+            <span class="categories-links">
+                <a rel="category" href="#">chiroplastic</a>
+            </span>
+        </div>
+	</div>
+
+		<div class="isotope-item with_background">
+            <div class="vertical-item gallery-title-item content-absolute">
+                <div class="item-media">
+                    <img src="images/gallery/gallery02.jpg" alt="">
+                    <div class="media-links">
+                        <div class="links-wrap">
+                            <span class="btn-type2 date-btn">03.02</span>
+                            <a href="#" class="btn-type2 comment-btn">269</a>
+                            <a href="#" class="btn-type2 like-btn">356</a>
+                            <a href="images/gallery/gallery02.jpg" class="btn-type2 add-btn p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item-title text-center">
+                <h3>
+                    <a href="#">Sadipscing elitr sed</a>
+                </h3>
+                <span class="categories-links">
+                    <a rel="category" href="#">detox</a>
+                </span>
+            </div>
+		</div>
+
+		<div class="isotope-item with_background">
+            <div class="vertical-item gallery-title-item content-absolute">
+                <div class="item-media">
+                    <img src="images/gallery/gallery03.jpg" alt="">
+                    <div class="media-links">
+                        <div class="links-wrap">
+                            <span class="btn-type2 date-btn">03.02</span>
+                            <a href="#" class="btn-type2 comment-btn">269</a>
+                            <a href="#" class="btn-type2 like-btn">356</a>
+                            <a href="images/gallery/gallery03.jpg" class="btn-type2 add-btn p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item-title text-center">
+                <h3>
+                    <a href="#">Sadipscing elitr sed</a>
+                </h3>
+                <span class="categories-links">
+                    <a rel="category" href="#">massage</a>
+                </span>
+            </div>
+		</div>
+
+		<div class="isotope-item with_background">
+            <div class="vertical-item gallery-title-item content-absolute">
+                <div class="item-media">
+                    <img src="images/gallery/gallery04.jpg" alt="">
+                    <div class="media-links">
+                        <div class="links-wrap">
+                            <span class="btn-type2 date-btn">03.02</span>
+                            <a href="#" class="btn-type2 comment-btn">269</a>
+                            <a href="#" class="btn-type2 like-btn">356</a>
+                            <a href="images/gallery/gallery04.jpg" class="btn-type2 add-btn p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item-title text-center">
+                <h3>
+                    <a href="#">Sadipscing elitr sed</a>
+                </h3>
+                <span class="categories-links">
+                    <a rel="category" href="#">relax</a>
+                </span>
+            </div>
+		</div>
+
+		<div class="isotope-item with_background">
+            <div class="vertical-item gallery-title-item content-absolute">
+                <div class="item-media">
+                    <img src="images/gallery/gallery05.jpg" alt="">
+                    <div class="media-links">
+                        <div class="links-wrap">
+                            <span class="btn-type2 date-btn">03.02</span>
+                            <a href="#" class="btn-type2 comment-btn">269</a>
+                            <a href="#" class="btn-type2 like-btn">356</a>
+                            <a href="images/gallery/gallery05.jpg" class="btn-type2 add-btn p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item-title text-center">
+                <h3>
+                    <a href="#">Sadipscing elitr sed</a>
+                </h3>
+                <span class="categories-links">
+                    <a rel="category" href="#">massage</a>
+                </span>
+            </div>
+		</div>
+
+		<div class="isotope-item with_background">
+            <div class="vertical-item gallery-title-item content-absolute">
+                <div class="item-media">
+                    <img src="images/gallery/gallery06.jpg" alt="">
+                    <div class="media-links">
+                        <div class="links-wrap">
+                            <span class="btn-type2 date-btn">03.02</span>
+                            <a href="#" class="btn-type2 comment-btn">269</a>
+                            <a href="#" class="btn-type2 like-btn">356</a>
+                            <a href="images/gallery/gallery06.jpg" class="btn-type2 add-btn p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item-title text-center">
+                <h3>
+                    <a href="#">Sadipscing elitr sed</a>
+                </h3>
+                <span class="categories-links">
+                    <a rel="category" href="#">detox</a>
+                </span>
+            </div>
+		</div>
+
+		<div class="isotope-item with_background">
+            <div class="vertical-item gallery-title-item content-absolute">
+                <div class="item-media">
+                    <img src="images/gallery/gallery07.jpg" alt="">
+                    <div class="media-links">
+                        <div class="links-wrap">
+                            <span class="btn-type2 date-btn">03.02</span>
+                            <a href="#" class="btn-type2 comment-btn">269</a>
+                            <a href="#" class="btn-type2 like-btn">356</a>
+                            <a href="images/gallery/gallery07.jpg" class="btn-type2 add-btn p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item-title text-center">
+                <h3>
+                    <a href="#">Sadipscing elitr sed</a>
+                </h3>
+                <span class="categories-links">
+                    <a rel="category" href="#">fitness</a>
+                </span>
+            </div>
+		</div>
+
+		<div class="isotope-item with_background">
+            <div class="vertical-item gallery-title-item content-absolute">
+                <div class="item-media">
+                    <img src="images/gallery/gallery08.jpg" alt="">
+                    <div class="media-links">
+                        <div class="links-wrap">
+                            <span class="btn-type2 date-btn">03.02</span>
+                            <a href="#" class="btn-type2 comment-btn">269</a>
+                            <a href="#" class="btn-type2 like-btn">356</a>
+                            <a href="images/gallery/gallery08.jpg" class="btn-type2 add-btn p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item-title text-center">
+                <h3>
+                    <a href="#">Sadipscing elitr sed</a>
+                </h3>
+                <span class="categories-links">
+                    <a rel="category" href="#">fitness</a>
+                </span>
+            </div>
+		</div>
+
+		<div class="isotope-item with_background">
+            <div class="vertical-item gallery-title-item content-absolute">
+                <div class="item-media">
+                    <img src="images/gallery/gallery09.jpg" alt="">
+                    <div class="media-links">
+                        <div class="links-wrap">
+                            <span class="btn-type2 date-btn">03.02</span>
+                            <a href="#" class="btn-type2 comment-btn">269</a>
+                            <a href="#" class="btn-type2 like-btn">356</a>
+                            <a href="images/gallery/gallery09.jpg" class="btn-type2 add-btn p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item-title text-center">
+                <h3>
+                    <a href="#">Sadipscing elitr sed</a>
+                </h3>
+                <span class="categories-links">
+                    <a rel="category" href="#">relax</a>
+                </span>
+            </div>
+		</div>
+
+		<div class="isotope-item with_background">
+            <div class="vertical-item gallery-title-item content-absolute">
+                <div class="item-media">
+                    <img src="images/gallery/gallery10.jpg" alt="">
+                    <div class="media-links">
+                        <div class="links-wrap">
+                            <span class="btn-type2 date-btn">03.02</span>
+                            <a href="#" class="btn-type2 comment-btn">269</a>
+                            <a href="#" class="btn-type2 like-btn">356</a>
+                            <a href="images/gallery/gallery10.jpg" class="btn-type2 add-btn p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item-title text-center">
+                <h3>
+                    <a href="#">Sadipscing elitr sed</a>
+                </h3>
+                <span class="categories-links">
+                    <a rel="category" href="#">detox</a>
+                </span>
+            </div>
+		</div>
+
+		<div class="isotope-item with_background">
+            <div class="vertical-item gallery-title-item content-absolute">
+                <div class="item-media">
+                    <img src="images/gallery/gallery11.jpg" alt="">
+                    <div class="media-links">
+                        <div class="links-wrap">
+                            <span class="btn-type2 date-btn">03.02</span>
+                            <a href="#" class="btn-type2 comment-btn">269</a>
+                            <a href="#" class="btn-type2 like-btn">356</a>
+                            <a href="images/gallery/gallery11.jpg" class="btn-type2 add-btn p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item-title text-center">
+                <h3>
+                    <a href="#">Sadipscing elitr sed</a>
+                </h3>
+                <span class="categories-links">
+                    <a rel="category" href="#">chiroplastic</a>
+                </span>
+            </div>
+		</div>
+
+		<div class="isotope-item with_background">
+            <div class="vertical-item gallery-title-item content-absolute">
+                <div class="item-media">
+                    <img src="images/gallery/gallery12.jpg" alt="">
+                    <div class="media-links">
+                        <div class="links-wrap">
+                            <span class="btn-type2 date-btn">03.02</span>
+                            <a href="#" class="btn-type2 comment-btn">269</a>
+                            <a href="#" class="btn-type2 like-btn">356</a>
+                            <a href="images/gallery/gallery12.jpg" class="btn-type2 add-btn p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item-title text-center">
+                <h3>
+                    <a href="#">Sadipscing elitr sed</a>
+                </h3>
+                <span class="categories-links">
+                    <a rel="category" href="#">relax</a>
+                </span>
+            </div>
+		</div>
+
+	</div>
+
+	<div class="container">
+        <div class="row">
+	        <div class="col-xs-12 text-center">
+	    			<div class="gallery-single-slider-nav grey">
+	    				<div class="pages" id="related-photos-carousel-pages">1 / 12</div>
+	    			</div>
+	    		</div>
+	    	</div>
+	</div>
+</section>
+
+
+<footer class="page_footer ls">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 text-center">
+                <div class="open-hours">
+                    <h3 class="widget-title">Open Hours</h3>
+                    <div>Monday - Friday <span>9:00 - 17:00</span></div>
+                    <div>Saturday <span>11:00 - 15:00</span></div>
+                    <div>Sunday <span>Closed</span></div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="widget widget_flickr"> 
+                    <h3 class="widget-title">Widget Flickr</h3>
+                    <ul id="flickr"></ul>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="widget widget_mailchimp">
+		    
+		    <h3 class="widget-title">Newaletter</h3>
+            <form class="signup form-inline" action="/" method="get">
+                <div class="form-group with_border">
+                    <input name="email" type="email" class="mailchimp_email form-control" placeholder="Email">
+                </div>
+                <button type="submit" class="theme_button rt-icon2-pen2 invertlink small_button"></button>
+                <div class="response"></div>
+            </form>
+            <p>Subscribe to our latest news to be updated, we promise not to spam!</p>
+		    
+		</div>
+            </div>
+        </div>
+    </div>
+    <img src="images/logo.png" alt="Chiroplastic logo" class="logo-footer site-logo">
+</footer>
+
+<section class="page_copyright ls">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 text-center">
+                <p>&copy; Copyright 2016 by <a href="#">MW Templates</a>. All Rights Reserved</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+</div><!-- eof #box_wrapper -->
+</div><!-- eof #canvas -->
+
+        <script src="js/compressed.js"></script>
+        <script src="js/switcher.js"></script>
+        <script src="js/main.js"></script>
+
+        <script src="js/jquery-ui.js"></script>
+
+    </body>
+</html>
