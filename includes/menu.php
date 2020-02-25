@@ -19,7 +19,7 @@ Contact Us
                             <a href="index.html">Home</a>
                         </li>
 						<li>
-                            <a href="about_us.php">About Us</a>
+                            <a href="about.php">About Us</a>
                         </li>
 						<li>
                             <a href="services.php">Services</a>
