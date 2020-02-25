@@ -42,18 +42,8 @@ include("includes/header.php");
     <div class="container">
         <div class="row">
             <div class="col-sm-12 text-center">
-                <h1 class="text-uppercase">about</h1>
-                <ol class="breadcrumb">
-                    <li>
-                        <a href="/">
-                            HomePage
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">pages</a>
-                    </li>
-                    <li class="active">about</li>
-                </ol>
+                <h1 class="text-uppercase">Care, Courage and Compassion</h1>
+                
             </div>
         </div>
     </div>
@@ -100,6 +90,31 @@ To provide integrated post-acute health care, accountable care, services and tec
 
             </p>
             <hr>
+            <p>
+			Drug addiction is a chronic disease characterized by compulsive, or uncontrollable, drug
+seeking and use despite harmful consequences and changes in the brain, which can be long-
+lasting. These changes in the brain can lead to the harmful behaviors seen in people who use
+drugs. Drug addiction is also a relapsing disease. Relapse is the return to drug use after an
+attempt to stop.
+Because addiction is a chronic disease, people can’t simply stop using drugs for a few days and
+be cured. Most patients need long-term or repeated care to stop using completely and recover
+their lives.
+
+            </p>
+            <p>
+			Addiction treatment must help the person do the following:
+<ol>
+<li>
+Stop using drugs
+</li>
+<li>
+2. Stay drug-free
+</li>
+<li>
+3. Be productive in the family, at work, and in society
+</li>
+</ol>
+            </p>
             <p>
             We provide Comfortable, Residential Rehabilitation Facilities for those suffering from chronic Mental illness, drug disorder and alcoholic. Elite Care Foundation started in Titwala, Thane in the year 2018 to offer comprehensive treatment and community based Psychosocial Rehabilitation. 
 Today, Elite Care Foundation provides Residential Care facilities for about 20 inpatients through main facility in Thane. Elite Care Foundation has a staff team of more than 100 that includes, Trained Mental Health Professionals like Psychiatric Social Workers, Psychiatrists, and trained Psychiatric Nurses.
@@ -158,60 +173,12 @@ focused on providing individuals care in an atmosphere of, dignity, and respect.
 This focus on personalized compassionate care is at the core of everything we do at Elite Care
 Foundation.
                                     </p>
-                                    <a href="#" class="theme_button inverse">View Profile</a>
+                                    <a href="rahul_kute.php" class="theme_button inverse">View Profile</a>
                                 </div>
                             </div>
                         </div>
 
-                        <div class="item">
-                            <div class="media">
-                                <div class="photo-link-wrap with_border">
-                                	<a href="#" class="photo-link">
-                                        <img class="media-object" src="images/team/team8.jpg" alt="">
-                                        <span class="btn-type2 bg-2 zoom-btn"></span>
-                                    </a>
-                                </div>
-                                
-                                <div class="media-body">
-                                    <h4 class="with_border_pseudo"><strong>George M. Sprague</strong></h4>
-                                    <span class="grey">Chiroplastic</span>
-                                    <div class="member-social">
-                                        <a href="#" class="social-icon img-bg-icon rounded-icon soc-facebook"></a>
-                                        <a href="#" class="social-icon img-bg-icon rounded-icon soc-twitter"></a>
-                                        <a href="#" class="social-icon img-bg-icon rounded-icon soc-skype"></a>
-                                    </div>
-                                    <p>
-                                    	At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum stet clita kasd gubergren.
-                                    </p>
-                                    <a href="#" class="theme_button inverse">View Profile</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="media">
-                                <div class="photo-link-wrap with_border">
-                                	<a href="#" class="photo-link">
-                                        <img class="media-object" src="images/team/team1.jpg" alt="">
-                                        <span class="btn-type2 bg-2 zoom-btn"></span>
-                                    </a>
-                                </div>
-                                
-                                <div class="media-body">
-                                    <h4 class="with_border_pseudo"><strong>Brian M. Taylor</strong></h4>
-                                    <span class="grey">Coach</span>
-                                    <div class="member-social">
-                                        <a href="#" class="social-icon img-bg-icon rounded-icon soc-facebook"></a>
-                                        <a href="#" class="social-icon img-bg-icon rounded-icon soc-twitter"></a>
-                                        <a href="#" class="social-icon img-bg-icon rounded-icon soc-skype"></a>
-                                    </div>
-                                    <p>
-                                    	At accusam aliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed tempor et et invidunt justo labore Stet clita ea et gubergren, kasd magna no rebum. sanctus sea sed takimata ut vero voluptua. est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
-                                    </p>
-                                    <a href="#" class="theme_button inverse">View Profile</a>
-                                </div>
-                            </div>
-                        </div>
+                        
                         
                     </div>
 
