@@ -25,7 +25,7 @@ Contact Us
                             <a href="services.php">Services</a>
                             <ul>
                                 <li>
-                                    <a href="residential_rehabiltiation.php">Residential Rehabiltiation</a>
+                                    <a href="residential_rehabilitation.php">Residential Rehabilitation</a>
                                 </li>
                                 <li>
                                     <a href="detox.php">Detox</a>

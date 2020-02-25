@@ -89,7 +89,17 @@ at affordable rates than in hospitals.
 			</div>
             
 		</div>
+        <br>
         <div>
+            <p>
+            <center><h3>Our Mission</h3></center>
+To provide superior clinical care, rehabilitation, wellness, and supportive residential rehabilitation services that meet the wants, needs, and expectations of our patients and residents – while achieving “quadruple aim” goals of better individual healthcare, better population health, lower costs and improved clinician experience – and drive performance and outcomes that are consistent with the demands of acute care partners and payor organizations.
+<center><h3>Our Vision</h3></center>
+To provide integrated post-acute health care, accountable care, services and technology that reduce re-hospitalizations, generate quality clinical outcomes and customer service, navigate patients cost-effectively through post-acute care, and reduce costly outliers for providers, while developing industry-leading programs and capabilities and growing relationships with strategic partners.
+
+
+            </p>
+            <hr>
             <p>
             We provide Comfortable, Residential Rehabilitation Facilities for those suffering from chronic Mental illness, drug disorder and alcoholic. Elite Care Foundation started in Titwala, Thane in the year 2018 to offer comprehensive treatment and community based Psychosocial Rehabilitation. 
 Today, Elite Care Foundation provides Residential Care facilities for about 20 inpatients through main facility in Thane. Elite Care Foundation has a staff team of more than 100 that includes, Trained Mental Health Professionals like Psychiatric Social Workers, Psychiatrists, and trained Psychiatric Nurses.
