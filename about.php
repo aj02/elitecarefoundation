@@ -42,7 +42,7 @@ include("includes/header.php");
     <div class="container">
         <div class="row">
             <div class="col-sm-12 text-center">
-                <h1 class="text-uppercase">Care, Courage and Compassion</h1>
+                <h1 class="text-uppercase">Courage, Compassion, & Connection</h1>
                 
             </div>
         </div>
@@ -65,12 +65,24 @@ include("includes/header.php");
 				<div class="abot-cont padding-b60 padding-t60">
 				    <p>
 					Our mission inspired by <strong>MINISTRY OF SOCIAL JUSTICE AND EMPOWERMENT (GOV. OF
-INDIA)</strong> is to create a harmonious and healthy society with love by healing the blindness caused
-by the addiction; raising the addict and his family from the handicapping problems of addiction
-and cleansing his name from the blacklist of rejected. Bring the addict to normal life by loving
-and healing him and spreading the light of awareness to prevent addiction. To provide treatment
+INDIA)</strong> is 
+<ol>
+<li>
+To create a harmonious and healthy society with love by healing the blindness caused
+by the addiction
+</li>
+<li> 
+Raising the addict and his family from the handicapping problems of addiction
+and cleansing his name from the blacklist of rejected
+</li>
+<li>
+Bring the addict to normal life by loving and healing him and spreading the light of awareness to prevent addiction. 
+</li>
+<li>
+To provide treatment
 at affordable rates than in hospitals.
-                        
+</li>                        
+</ol>                        
                     </p>
 				    
 				</div>

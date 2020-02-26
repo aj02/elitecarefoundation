@@ -71,9 +71,9 @@ include("includes/header.php");
                     </div>
                     <div class="single-item-body padding-b0">
                         <header class="entry-header">
-                            <h2>
+                            <!--h2>
                                 <a href="#">Curabitur aliquet quam id dui</a>
-                            </h2>
+                            </h2-->
                             <div class="post-adds with_background">
                                 <a href="#" class="lightlink">
                                     <i class="rt-icon2-arrow-forward-outline"></i>

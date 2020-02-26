@@ -16,7 +16,7 @@ Contact Us
 <nav class="mainmenu_wrapper">
                     <ul class="mainmenu sf-menu">
                         <li class="active">
-                            <a href="index.html">Home</a>
+                            <a href="index.php">Home</a>
                         </li>
 						<li>
                             <a href="about.php">About Us</a>
@@ -56,7 +56,7 @@ Contact Us
 						
 						
 						<li>
-                            <a href="contactus.php">Contact Us</a>
+                            <a href="contact.php">Contact Us</a>
                         </li>
 						
 						

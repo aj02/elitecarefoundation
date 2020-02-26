@@ -98,7 +98,7 @@ include("includes/header.php");
 										</p>
 									</div>
 									<div class="intro-layer" data-animation="slideExpandUp">
-										<a href="#" class="theme_button with-shadow">More about Treatment</a>
+										<a href="therapy.php" class="theme_button with-shadow">More about Treatment</a>
 									</div>
 								</div> <!-- eof .slide_description -->
 							</div> <!-- eof .slide_description_wrapper -->
@@ -132,7 +132,7 @@ professionals who will offer support throughout the detox treatment process.
 										</p>
 									</div>
 									<div class="intro-layer" data-animation="slideExpandUp">
-										<a href="#" class="theme_button with-shadow">More About Detox Treatment</a>
+										<a href="detox.php" class="theme_button with-shadow">More About Detox Treatment</a>
 									</div>
 								</div> <!-- eof .slide_description -->
 							</div> <!-- eof .slide_description_wrapper -->
