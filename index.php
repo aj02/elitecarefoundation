@@ -42,7 +42,7 @@ include("includes/header.php");
 		<ul class="slides">
 			<li>
 				<!--img src="images/test_image13.jpg" alt=""-->
-				<img src="http://webdesign-finder.com/html/chiropractor/images/intro_slide_01.jpg" alt="">
+				<img src="images/slide/2.png" alt="">
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12">
@@ -75,7 +75,7 @@ include("includes/header.php");
 			</li>
 
 			<li>
-				<img src="http://webdesign-finder.com/html/chiropractor/images/intro_slide_02.jpg" alt="">
+				<img src="images/slide/5.png" alt="">
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12">
@@ -108,7 +108,7 @@ include("includes/header.php");
 			</li>
 
 			<li>
-				<img src="http://webdesign-finder.com/html/chiropractor/images/intro_slide_03.jpg" alt="">
+				<img src="images/slide/4.png" alt="">
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12">
@@ -215,7 +215,7 @@ abusing without risk to their health or wellbeing.
 
                     <div class="vertical-item ">
                         <div class="item-media">
-                            <img src="images/service-01.jpg" alt="">
+                            <img src="images/services/therapy.png" alt="">
                             <div class="media-links">
                                 <a href="#" class="btn-type2 menu-btn bg-0"></a>
                                 <a class="abs-link" title="" href="#"></a>
@@ -231,7 +231,7 @@ abusing without risk to their health or wellbeing.
 
                     <div class="vertical-item ">
                         <div class="item-media">
-                            <img src="images/service-02.jpg" alt="">
+                            <img src="images/services/detox.png" alt="">
                             <div class="media-links">
                                 <a href="#" class="btn-type2 menu-btn bg-0"></a>
                                 <a class="abs-link" title="" href="#"></a>
@@ -247,7 +247,7 @@ abusing without risk to their health or wellbeing.
 
                     <div class="vertical-item ">
                         <div class="item-media">
-                            <img src="images/service-03.jpg" alt="">
+                            <img src="images/services/cbt.png" alt="">
                             <div class="media-links">
                                 <a href="#" class="btn-type2 menu-btn bg-0"></a>
                                 <a class="abs-link" title="" href="#"></a>
@@ -263,7 +263,7 @@ abusing without risk to their health or wellbeing.
 
                     <div class="vertical-item ">
                         <div class="item-media">
-                            <img src="images/service-04.jpg" alt="">
+                            <img src="images/services/counsel.png" alt="">
                             <div class="media-links">
                                 <a href="#" class="btn-type2 menu-btn bg-0"></a>
                                 <a class="abs-link" title="" href="#"></a>
@@ -279,7 +279,7 @@ abusing without risk to their health or wellbeing.
 
                     <div class="vertical-item ">
                         <div class="item-media">
-                            <img src="images/service-05.jpg" alt="">
+                            <img src="images/services/rehab.png" alt="">
                             <div class="media-links">
                                 <a href="#" class="btn-type2 menu-btn bg-0"></a>
                                 <a class="abs-link" title="" href="#"></a>
