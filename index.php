@@ -65,7 +65,7 @@ include("includes/header.php");
 										</p>
 									</div>
 									<div class="intro-layer" data-animation="slideExpandUp">
-										<a href="#" class="theme_button with-shadow">Contact Us</a>
+										<a href="contact.php" class="theme_button with-shadow">Contact Us</a>
 									</div>
 								</div> <!-- eof .slide_description -->
 							</div> <!-- eof .slide_description_wrapper -->
@@ -384,15 +384,23 @@ rejuvenation.
 		</div>
 
 		<div class="row">
+		
 			<div class="col-md-4">
-				<div class="single-item small-item">
-					<!-- <img src="images/blog-post1.jpg" alt=""> -->
+				<div class="single-item small-item carusel-item">
+					<!-- <img src="images/blog-post2.jpg" alt=""> -->
+					<div id="carousel-generic" class="carousel slide">
+                            <!-- Wrapper for slides -->
+                            <div class="carousel-inner">
+                                <div class="item active">
+                                	<img src="images/oie_nFJbmNUTbiOR.png" alt="">
+                                </div>
+                                
+                            </div>
+                            <!-- Controls -->
+                            
+                    </div>
+
 					<div class="single-item-body transp_background">
-					<!--div class="item-meta">
-						<span class="btn-type2 bg-0 date-btn">10.02</span>
-						<a href="#" class="btn-type2 bg-1 comment-btn">438</a>
-						<a href="#" class="btn-type2 bg-2 like-btn">127</a>
-					</div-->
 						<h4><a href=#>What are treatments for drug addiction?</a></h4>
 						<p>
 							There are many options that have been successful in treating drug addiction, including:
@@ -404,6 +412,7 @@ rejuvenation.
 					</div>
 				</div>
 			</div>
+			
 			<div class="col-md-4">
 				<div class="single-item small-item carusel-item">
 					<!-- <img src="images/blog-post2.jpg" alt=""> -->
@@ -411,19 +420,12 @@ rejuvenation.
                             <!-- Wrapper for slides -->
                             <div class="carousel-inner">
                                 <div class="item active">
-                                	<img src="images/blog-post2.jpg" alt="">
+                                	<img src="images/oie_l6FintHdyMw8.png" alt="">
                                 </div>
-                                <div class="item">
-                                	<img src="images/blog-post3.jpg" alt="">
-                                </div>
+                                
                             </div>
                             <!-- Controls -->
-                            <a class="left carousel-control" href="#carousel-generic" data-slide="prev">
-                                <span class="rt-icon2-chevron-thin-left"></span>
-                            </a>
-                            <a class="right carousel-control" href="#carousel-generic" data-slide="next">
-                                <span class="rt-icon2-chevron-thin-right"></span>
-                            </a>
+                            
                     </div>
 
 					<div class="single-item-body transp_background">
@@ -435,11 +437,23 @@ rejuvenation.
 					</div>
 				</div>
 			</div>
+			
 			<div class="col-md-4">
-				<div class="single-item small-item">
-					<!-- <img src="images/blog-post3.jpg" alt=""> -->
+				<div class="single-item small-item carusel-item">
+					<!-- <img src="images/blog-post2.jpg" alt=""> -->
+					<div id="carousel-generic" class="carousel slide">
+                            <!-- Wrapper for slides -->
+                            <div class="carousel-inner">
+                                <div class="item active">
+                                	<img src="images/oie_hCRyuKfLrqr5.png" alt="">
+                                </div>
+                                
+                            </div>
+                            <!-- Controls -->
+                            
+                    </div>
+
 					<div class="single-item-body transp_background">
-					
 						<h4><a href=#>What are the Challenges of Re-entry?</a></h4>
 						<p>
 							Drug abuse changes the function of the brain, and many things can &quot;trigger&quot; drug cravings
@@ -449,8 +463,8 @@ within the brain. It’s critical for those ...
 					</div>
 				</div>
 			</div>
-		</div>
-
+			
+			
 		<!--div class="row">
 			<div class="col-xs-12 text-center">
 				<div class="blog-nav">

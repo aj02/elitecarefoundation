@@ -64,16 +64,13 @@ include("includes/header.php");
                                 <article class="single-item big-item">
                     <div class="item-media">
                         
-                        <img src="images/image-post.jpg" alt="">
+                        <img src="images/vegan-liftz-uPFoQjYHFu8.jpg" alt="">
                         <div class="media-links">
                             <a href="blog_post.html" class="abs-link"></a>
                         </div>
                     </div>
                     <div class="single-item-body padding-b0">
-                        <header class="entry-header">
-                            <!--h2>
-                                <a href="#">Curabitur aliquet quam id dui</a>
-                            </h2-->
+                        <!--header class="entry-header">
                             <div class="post-adds with_background">
                                 <a href="#" class="lightlink">
                                     <i class="rt-icon2-arrow-forward-outline"></i>
@@ -88,7 +85,7 @@ include("includes/header.php");
                                     <strong>29,456</strong> views
                                 </span>
                             </div>
-                        </header>
+                        </header-->
                         <p class="important margin-b25 margin-t40 grey">
                         Elite Care Foundation is a behavioral healthcare treatment center that is proud to offer
 life-changing services, including detox, to adult patients suffering from mental health and

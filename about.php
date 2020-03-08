@@ -120,10 +120,10 @@ their lives.
 Stop using drugs
 </li>
 <li>
-2. Stay drug-free
+Stay drug-free
 </li>
 <li>
-3. Be productive in the family, at work, and in society
+Be productive in the family, at work, and in society
 </li>
 </ol>
             </p>
