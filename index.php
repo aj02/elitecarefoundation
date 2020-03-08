@@ -42,7 +42,7 @@ include("includes/header.php");
 		<ul class="slides">
 			<li>
 				<!--img src="images/test_image13.jpg" alt=""-->
-				<img src="images/slide/2.png" alt="">
+				<img src="images/slide/elite_care_foundation_residential_rehabilitation.png" alt="">
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12">
@@ -75,7 +75,7 @@ include("includes/header.php");
 			</li>
 
 			<li>
-				<img src="images/slide/5.png" alt="">
+				<img src="images/slide/elite_care_foundation_evidence_based_therapy.png" alt="">
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12">
@@ -108,7 +108,7 @@ include("includes/header.php");
 			</li>
 
 			<li>
-				<img src="images/slide/4.png" alt="">
+				<img src="images/slide/elite_care_foundation_detox_treatment.png" alt="">
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12">
@@ -322,14 +322,13 @@ abusing without risk to their health or wellbeing.
                         <div class="carousel-inner">
                             <div class="item active">
                                 <p class="grey">
-                                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-                                    sed diam nonumy eirmod tempor invidunt labore dolore magna aliquyam.
+                                    People are examined closely and cured in minimal timeframe. I quit everything and started a new life without addiction. Keep it up 👍
                                 </p>
                                 <div class="media">
                                     <div class="media-body">
-                                        <a href="#" class="invertlink"><strong>Amanda Anderson</strong></a>
+                                        <a href="#" class="invertlink"><strong>Jay Dumbre</strong></a>
                                         <span>
-                                            Client
+                                            Former Patient and Software Developer
                                         </span>
                                     </div>
                                 </div>
@@ -337,13 +336,13 @@ abusing without risk to their health or wellbeing.
 
                             <div class="item">
                                 <p class="grey">
-                                    Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+                                    Elite is one of the best place u can trust and get treated well  . they take good care of each patient and treat each one as their family member  that's a very good thing and see that their patient feels home thanks a million  rahul kute sir doing great job  !
                                 </p>
                                 <div class="media">
                                     <div class="media-body">
-                                        <a href="#" class="invertlink"><strong>Amanda Anderson</strong></a>
+                                        <a href="#" class="invertlink"><strong>Raj Saxena</strong></a>
                                         <span>
-                                            Client
+                                            Social Worker
                                         </span>
                                     </div>
                                 </div>
@@ -351,14 +350,14 @@ abusing without risk to their health or wellbeing.
 
                             <div class="item">
                                 <p class="grey">
-                                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-                                    sed diam nonumy eirmod tempor invidunt labore dolore magna aliquyam.
+                                    One of my neighbour was admitted here, and now he looks fine, he is no longer trouble to his family..
+
                                 </p>
                                 <div class="media">
                                     <div class="media-body">
-                                        <a href="#" class="invertlink"><strong>Amanda Anderson</strong></a>
+                                        <a href="#" class="invertlink"><strong>Siddiqui Qamruddin</strong></a>
                                         <span>
-                                            Client
+                                            Social Worker
                                         </span>
                                     </div>
                                 </div>
