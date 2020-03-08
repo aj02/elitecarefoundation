@@ -22,7 +22,7 @@ Contact Us
                             <a href="about.php">About Us</a>
                         </li>
 						<li>
-                            <a href="services.php">Services</a>
+                            <a href="#">Services</a>
                             <ul>
                                 <li>
                                     <a href="residential_rehabilitation.php">Residential Rehabilitation</a>
@@ -42,7 +42,7 @@ Contact Us
                             </ul>  
                         </li>
 						<li>
-                            <a href="treatment.php">Treatment</a>
+                            <a href="#">Treatment</a>
                             <ul>
                                 <li>
                                     <a href="types_of_drugs.php">Type of Drugs</a>
