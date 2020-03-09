@@ -179,53 +179,10 @@ include("includes/header.php");
             </div>
         </section>
 
-<footer class="page_footer ls">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-4 text-center">
-                <div class="open-hours">
-                    <h3 class="widget-title">Open Hours</h3>
-                    <div>Monday - Friday <span>9:00 - 17:00</span></div>
-                    <div>Saturday <span>11:00 - 15:00</span></div>
-                    <div>Sunday <span>Closed</span></div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="widget widget_flickr"> 
-                    <h3 class="widget-title">Widget Flickr</h3>
-                    <ul id="flickr"></ul>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="widget widget_mailchimp">
-		    
-		    <h3 class="widget-title">Newaletter</h3>
-            <form class="signup form-inline" action="/" method="get">
-                <div class="form-group with_border">
-                    <input name="email" type="email" class="mailchimp_email form-control" placeholder="Email">
-                </div>
-                <button type="submit" class="theme_button rt-icon2-pen2 invertlink small_button"></button>
-                <div class="response"></div>
-            </form>
-            <p>Subscribe to our latest news to be updated, we promise not to spam!</p>
-		    
-		</div>
-            </div>
-        </div>
-    </div>
-    <img src="images/logo.png" alt="Chiroplastic logo" class="logo-footer site-logo">
-</footer>
-
-<section class="page_copyright ls">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12 text-center">
-                <p>&copy; Copyright 2016 by <a href="#">MW Templates</a>. All Rights Reserved</p>
-            </div>
-        </div>
-    </div>
-</section>
-
+<?php 
+include("includes/footer.php");
+include("includes/copyright.php");
+?>
 </div><!-- eof #box_wrapper -->
 </div><!-- eof #canvas -->
 

@@ -85,7 +85,7 @@ include("includes/header.php");
 							<div class="tab-pane fade in active" id="rehab-tab">
 
                                 <h1 class="text-uppercase xlight">Alcohol</h1>
-                                <img src="images/oie_qLJjcHcqiSi4.png" alt>
+                                <img src="images/service-details.jpg" alt>
                                 <div class="row">
 									<div class="col-sm-6">
                                         <p class="margin-t20 margin-b0 grey"><strong>Temporary Blackouts </strong></p>
@@ -139,7 +139,7 @@ include("includes/header.php");
                             <div class="tab-pane fade in" id="cbt-tab">
 
                                 <h1 class="text-uppercase xlight">Opioids</h1>
-                                <img src="images/oie_oQt043YOhoGt.png" alt>
+                                <img src="images/service-details.jpg" alt>
                                 <div class="row">
 									<div class="col-sm-6">
                                         <p class="margin-t20 margin-b0 grey"><strong>Persistent desire</strong></p>
@@ -194,7 +194,7 @@ include("includes/header.php");
                             <div class="tab-pane fade in" id="medication-tab">
 
                                 <h1 class="text-uppercase xlight">Tobacco</h1>
-                                <img src="images/oie_WxiIJwjJQQ5u.png" alt>
+                                <img src="images/service-details.jpg" alt>
                                 <div class="row">
 									<div class="col-sm-6">
                                         <p class="margin-t20 margin-b0 grey"><strong>Must smoke or chew</strong></p>
@@ -255,7 +255,61 @@ include("includes/header.php");
                     </div>
                 </div>
             </div>
-			
+			<div class="row">
+            <div class="col-sm-12">
+                <h2 class="text-center">Teasers With Borders and Backgrounds</h2>
+                <p class="text-center">You can add a border or a background to any of them by adding a <strong class="grey">with_border</strong> or <strong class="grey">with_background</strong>, <strong class="grey">dark_bg_color</strong>, <strong class="grey">main_bg_color</strong> classes to <strong class="grey">teaser</strong> element.</p>
+            </div>
+
+            <div class="col-md-3 col-sm-6">
+                <div class="teaser text-center with_border">
+                    <div class="teaser_icon grey size_big main_bg_color">
+                        <i class="rt-icon2-heart"></i>
+                    </div>
+                    <h4>Border Teaser</h4>
+                    <p>This is teaser with normal size grey icon with h4 heading</p>
+                    <a href="#" class="theme_button small_button color2">Know More!</a>
+                </div>
+            </div>
+
+            <div class="col-md-3 col-sm-6">
+                <div class="teaser text-center with_background">
+                    <div class="teaser_icon highlight size_big">
+                        <i class="fa fa-paint-brush"></i>
+                    </div>
+                    <h3>Muted Teaser</h3>
+                    <p>This is teaser with big size color icon with h3 heading and <strong class="grey">Font Awesome</strong> icon</p>
+                    <a href="#" class="theme_button small_button color1">Know More!</a>
+                </div>
+            </div>
+
+            <div class="col-md-3 col-sm-6">
+
+                <div class="teaser text-center dark_bg_color">
+                    <div class="teaser_icon size_big">
+                        <i class="rt-icon2-star"></i>
+                    </div>
+                    <h4>Dark Teaser</h4>
+                    <p>This is teaser with big size icon, dark background and h4 heading with border</p>
+                    <a href="#" class="theme_button small_button">Know More!</a>
+                </div>
+                
+            </div>
+
+            <div class="col-md-3 col-sm-6">
+
+                <div class="teaser text-center main_bg_color">
+                    <div class="teaser_icon size_small border_icon round">
+                        <i class="rt-icon2-eye"></i>
+                    </div>
+                    <h3>Color Teaser</h3>
+                    <p>This is teaser with small size icon with border, color background and h3 heading</p>
+                    <a href="#" class="theme_button small_button inverse">Know More!</a>
+                </div>
+
+            </div>
+          
+        </div>
         </section>
 
 <?php 
