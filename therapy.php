@@ -100,7 +100,7 @@ include("includes/header.php");
 							<div class="tab-pane fade in active" id="rehab-tab">
 
                                 <h1 class="text-uppercase xlight">Residential Rehab</h1>
-                                <img src="images/service-details.jpg" alt>
+                                <img src="images/oie_D2cvv4YI1kkq.png" alt>
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <p class="margin-t20 margin-b0 grey"><strong>Cognitive Behavioral Therapy (CBT)</strong></p>
@@ -156,7 +156,7 @@ enter treatment</p>
                             <div class="tab-pane fade in" id="cbt-tab">
 
                                 <h1 class="text-uppercase xlight">Behavioral Counseling</h1>
-                                <img src="images/service-details.jpg" alt>
+                                <img src="images/oie_dI1bY5viENYK.png" alt>
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <p class="margin-t20 margin-b0 grey"><strong>Cognitive Behavioral Therapy (CBT)</strong></p>
@@ -213,7 +213,7 @@ enter treatment</p>
                             <div class="tab-pane fade in" id="medication-tab">
 
                                 <h1 class="text-uppercase xlight">Medication</h1>
-                                <img src="images/service-details.jpg" alt>
+                                <img src="images/oie_coNadmIougkp.png" alt>
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <p class="margin-t20 margin-b0 grey"><strong>Cognitive Behavioral Therapy (CBT)</strong></p>
@@ -269,7 +269,7 @@ enter treatment</p>
 							<div class="tab-pane fade in" id="detox-tab">
 
                                 <h1 class="text-uppercase xlight">Detox</h1>
-                                <img src="images/service-details.jpg" alt>
+                                <img src="images/oie_hr6HjyKy79aa.png" alt>
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <p class="margin-t20 margin-b0 grey"><strong>Cognitive Behavioral Therapy (CBT)</strong></p>
@@ -325,7 +325,7 @@ enter treatment</p>
 							<div class="tab-pane fade in" id="yoga-tab">
 
                                 <h1 class="text-uppercase xlight">Yoga</h1>
-                                <img src="images/service-details.jpg" alt>
+                                <img src="images/oie_DQQV5DCLqhJ4.png" alt>
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <p class="margin-t20 margin-b0 grey"><strong>Cognitive Behavioral Therapy (CBT)</strong></p>
@@ -381,7 +381,7 @@ enter treatment</p>
 							<div class="tab-pane fade in" id="post-rehab-tab">
 
                                 <h1 class="text-uppercase xlight">Post Rehab</h1>
-                                <img src="images/service-details.jpg" alt>
+                                <img src="images/oie_qxpQgwHbCFbt.png" alt>
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <p class="margin-t20 margin-b0 grey"><strong>Cognitive Behavioral Therapy (CBT)</strong></p>
