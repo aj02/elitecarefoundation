@@ -5,7 +5,6 @@
 <!--[if gt IE 8]--> <html class="no-js"> <!--<![endif]-->
 <?php 
 include("includes/head.php");
-exit;
 ?>
 <body>
 
