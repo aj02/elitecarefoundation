@@ -218,7 +218,7 @@ abusing without risk to their health or wellbeing.
                             <img src="images/services/therapy.png" alt="">
                             <div class="media-links">
                                 <a href="#" class="btn-type2 menu-btn bg-0"></a>
-                                <a class="abs-link" title="" href="#"></a>
+                                <a class="abs-link" title="" href="therapy.php"></a>
                             </div>
                         </div>
                         <h2>
@@ -234,7 +234,7 @@ abusing without risk to their health or wellbeing.
                             <img src="images/services/detox.png" alt="">
                             <div class="media-links">
                                 <a href="#" class="btn-type2 menu-btn bg-0"></a>
-                                <a class="abs-link" title="" href="#"></a>
+                                <a class="abs-link" title="" href="detox.php"></a>
                             </div>
                         </div>
                         <h2>
@@ -250,7 +250,7 @@ abusing without risk to their health or wellbeing.
                             <img src="images/services/cbt.png" alt="">
                             <div class="media-links">
                                 <a href="#" class="btn-type2 menu-btn bg-0"></a>
-                                <a class="abs-link" title="" href="#"></a>
+                                <a class="abs-link" title="" href="cognitive_behavioural_theory.php"></a>
                             </div>
                         </div>
                         <h2>
@@ -266,7 +266,7 @@ abusing without risk to their health or wellbeing.
                             <img src="images/services/counsel.png" alt="">
                             <div class="media-links">
                                 <a href="#" class="btn-type2 menu-btn bg-0"></a>
-                                <a class="abs-link" title="" href="#"></a>
+                                <a class="abs-link" title="" href="family_and_couple_counselling.php"></a>
                             </div>
                         </div>
                         <h2>
@@ -282,7 +282,7 @@ abusing without risk to their health or wellbeing.
                             <img src="images/services/rehab.png" alt="">
                             <div class="media-links">
                                 <a href="#" class="btn-type2 menu-btn bg-0"></a>
-                                <a class="abs-link" title="" href="#"></a>
+                                <a class="abs-link" title="" href="residential_rehabilitation.php"></a>
                             </div>
                         </div>
                         <h2>
