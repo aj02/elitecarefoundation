@@ -507,7 +507,7 @@ Foundation.
 
 
 <?php 
-//include("includes/footer.php");
+include("includes/footer.php");
 include("includes/copyright.php");
 ?>
 
