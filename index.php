@@ -387,7 +387,7 @@ abusing without risk to their health or wellbeing.
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner">
                         <div class="item active">
-                            <div class="media" style="max-width:100%;">
+                            <div class="media" >
                                 <!--div class="photo-link-wrap with_border">
                                 	<a href="#" class="photo-link">
                                         <img class="media-object" src="images/team/team6.jpg" alt="">
@@ -395,7 +395,7 @@ abusing without risk to their health or wellbeing.
                                     </a>
                                 </div-->
                                 
-                                <div class="media-body">
+                                <div class="media-body" style="max-width:100%;">
                                     <h4 class="with_border_pseudo"><strong>Rahul Kute</strong></h4>
                                     <!-- <div></div> -->
                                     <span class="grey">Founder and CEO</span>
@@ -507,7 +507,7 @@ Foundation.
 
 
 <?php 
-include("includes/footer.php");
+//include("includes/footer.php");
 include("includes/copyright.php");
 ?>
 
