@@ -149,19 +149,19 @@ professionals who will offer support throughout the detox treatment process.
 <section class="about ls">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6">
-				<div class="entry-thumbnail">
-					<div class="embed-responsive embed-responsive-3by2">
-                        <a href="//player.vimeo.com/video/1084537" class="embed-placeholder">
-                            <img src="images/vimeo.jpg" alt="">
-                        </a>
-                    </div>
+			<!--div class="col-md-6"-->
+				<!--div class="entry-thumbnail"-->
+					<!--div class="embed-responsive embed-responsive-3by2">
+						<a href="//player.vimeo.com/video/1084537" class="embed-placeholder">
+						    <img src="images/vimeo.jpg" alt="">
+						</a>
+					    </div-->
                     <!-- <iframe src="//player.vimeo.com/video/1084537" width="1000" height="460"></iframe> -->
-				</div>
-				<h4 class="margin-b0 margin-t20">Residential Reahab Guide</h4>
-				<span class="highlight text-uppercase letter-spce-02"><strong>By Rahul Kute</strong></span>
-			</div>
-			<div class="col-md-6">
+				<!--/div-->
+				<!--h4 class="margin-b0 margin-t20">Residential Reahab Guide</h4>
+				<span class="highlight text-uppercase letter-spce-02"><strong>By Rahul Kute</strong></span-->
+			<!--/div-->
+			<div class="col-md-12">
 				<div class="abot-cont padding-t60 padding-b60 img_background_before">
 					<h2><strong>About Elite Care Foundation</strong></h2>
 				    <p>
