@@ -1,7 +1,7 @@
 <footer class="page_footer ls">
     <div class="container">
         <div class="row">
-            <div class="col-md-4 text-center">
+            <div class="col-md-12 text-center">
                 <div class="open-hours">
                     <h3 class="widget-title">Open Hours</h3>
                     <div>Monday - Friday <span>9am - 6pm</span></div>
@@ -9,13 +9,13 @@
                     <div>Sunday <span>9am - 6pm</span></div>
                 </div>
             </div>
-            <div class="col-md-4">
+            <!--div class="col-md-4">
                 <div class="widget widget_flickr"> 
                     <h3 class="widget-title">Instagram</h3>
                     <ul id="flickr"></ul>
                 </div>
-            </div>
-            <div class="col-md-4">
+            </div-->
+            <!--div class="col-md-4">
                 <div class="widget widget_mailchimp">
 		    
 		    <h3 class="widget-title">Newsletter</h3>
@@ -29,7 +29,7 @@
             <p>Subscribe to our latest news to be updated, about drug usage analysis in India.</p>
 		    
 		</div>
-            </div>
+            </div-->
         </div>
     </div>
     <img src="images/elite_care_foundation_logo.png" alt="Chiroplastic logo" class="logo-footer site-logo">
