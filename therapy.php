@@ -121,36 +121,7 @@ enter treatment</p>
 									</div>
                                     <div class="col-sm-6"></div>
                                 </div>
-                                <div class="panel-group" id="accordion3">
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading">
-                                            <h4 class="panel-title">
-                                                <a data-toggle="collapse" data-parent="#accordion3" href="#collapse12" class="collapsed">
-                                                    Gallery
-                                                </a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapse12" class="panel-collapse collapse">
-                                            <div class="panel-body">
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium amet ea dicta neque, ut quis omnis quos nam, pariatur, minus, fugit suscipit aspernatur sint ullam quas explicabo. Alias, officiis, dolor!
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading">
-                                            <h4 class="panel-title">
-                                                <a data-toggle="collapse" data-parent="#accordion3" href="#collapse13" class="collapsed">
-                                                    Frequently Asked Questions
-                                                </a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapse13" class="panel-collapse collapse">
-                                            <div class="panel-body">
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium amet ea dicta neque, ut quis omnis quos nam, pariatur, minus, fugit suscipit aspernatur sint ullam quas explicabo. Alias, officiis, dolor!
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> 
+                                
 
                             </div>
                             <div class="tab-pane fade in" id="cbt-tab">
@@ -177,36 +148,7 @@ enter treatment</p>
 									</div>
                                     <div class="col-sm-6"></div>
                                 </div>
-                                <div class="panel-group" id="accordion3">
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading">
-                                            <h4 class="panel-title">
-                                                <a data-toggle="collapse" data-parent="#accordion3" href="#collapse12" class="collapsed">
-                                                    Gallery
-                                                </a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapse12" class="panel-collapse collapse">
-                                            <div class="panel-body">
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium amet ea dicta neque, ut quis omnis quos nam, pariatur, minus, fugit suscipit aspernatur sint ullam quas explicabo. Alias, officiis, dolor!
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading">
-                                            <h4 class="panel-title">
-                                                <a data-toggle="collapse" data-parent="#accordion3" href="#collapse13" class="collapsed">
-                                                    Frequently Asked Questions
-                                                </a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapse13" class="panel-collapse collapse">
-                                            <div class="panel-body">
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium amet ea dicta neque, ut quis omnis quos nam, pariatur, minus, fugit suscipit aspernatur sint ullam quas explicabo. Alias, officiis, dolor!
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> 
+                                
 
                             </div>
 
@@ -234,36 +176,7 @@ enter treatment</p>
 									</div>
                                     <div class="col-sm-6"></div>
                                 </div>
-                                <div class="panel-group" id="accordion3">
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading">
-                                            <h4 class="panel-title">
-                                                <a data-toggle="collapse" data-parent="#accordion3" href="#collapse12" class="collapsed">
-                                                    Gallery
-                                                </a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapse12" class="panel-collapse collapse">
-                                            <div class="panel-body">
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium amet ea dicta neque, ut quis omnis quos nam, pariatur, minus, fugit suscipit aspernatur sint ullam quas explicabo. Alias, officiis, dolor!
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading">
-                                            <h4 class="panel-title">
-                                                <a data-toggle="collapse" data-parent="#accordion3" href="#collapse13" class="collapsed">
-                                                    Frequently Asked Questions
-                                                </a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapse13" class="panel-collapse collapse">
-                                            <div class="panel-body">
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium amet ea dicta neque, ut quis omnis quos nam, pariatur, minus, fugit suscipit aspernatur sint ullam quas explicabo. Alias, officiis, dolor!
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> 
+                                
 
                             </div>
 							<div class="tab-pane fade in" id="detox-tab">
@@ -290,36 +203,7 @@ enter treatment</p>
 									</div>
                                     <div class="col-sm-6"></div>
                                 </div>
-                                <div class="panel-group" id="accordion3">
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading">
-                                            <h4 class="panel-title">
-                                                <a data-toggle="collapse" data-parent="#accordion3" href="#collapse12" class="collapsed">
-                                                    Gallery
-                                                </a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapse12" class="panel-collapse collapse">
-                                            <div class="panel-body">
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium amet ea dicta neque, ut quis omnis quos nam, pariatur, minus, fugit suscipit aspernatur sint ullam quas explicabo. Alias, officiis, dolor!
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading">
-                                            <h4 class="panel-title">
-                                                <a data-toggle="collapse" data-parent="#accordion3" href="#collapse13" class="collapsed">
-                                                    Frequently Asked Questions
-                                                </a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapse13" class="panel-collapse collapse">
-                                            <div class="panel-body">
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium amet ea dicta neque, ut quis omnis quos nam, pariatur, minus, fugit suscipit aspernatur sint ullam quas explicabo. Alias, officiis, dolor!
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> 
+                                
 
                             </div>
 							<div class="tab-pane fade in" id="yoga-tab">
@@ -346,36 +230,7 @@ enter treatment</p>
 									</div>
                                     <div class="col-sm-6"></div>
                                 </div>
-                                <div class="panel-group" id="accordion3">
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading">
-                                            <h4 class="panel-title">
-                                                <a data-toggle="collapse" data-parent="#accordion3" href="#collapse12" class="collapsed">
-                                                    Gallery
-                                                </a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapse12" class="panel-collapse collapse">
-                                            <div class="panel-body">
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium amet ea dicta neque, ut quis omnis quos nam, pariatur, minus, fugit suscipit aspernatur sint ullam quas explicabo. Alias, officiis, dolor!
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading">
-                                            <h4 class="panel-title">
-                                                <a data-toggle="collapse" data-parent="#accordion3" href="#collapse13" class="collapsed">
-                                                    Frequently Asked Questions
-                                                </a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapse13" class="panel-collapse collapse">
-                                            <div class="panel-body">
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium amet ea dicta neque, ut quis omnis quos nam, pariatur, minus, fugit suscipit aspernatur sint ullam quas explicabo. Alias, officiis, dolor!
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> 
+                                
 
                             </div>
 							<div class="tab-pane fade in" id="post-rehab-tab">
@@ -402,36 +257,7 @@ enter treatment</p>
 									</div>
                                     <div class="col-sm-6"></div>
                                 </div>
-                                <div class="panel-group" id="accordion3">
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading">
-                                            <h4 class="panel-title">
-                                                <a data-toggle="collapse" data-parent="#accordion3" href="#collapse12" class="collapsed">
-                                                    Gallery
-                                                </a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapse12" class="panel-collapse collapse">
-                                            <div class="panel-body">
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium amet ea dicta neque, ut quis omnis quos nam, pariatur, minus, fugit suscipit aspernatur sint ullam quas explicabo. Alias, officiis, dolor!
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading">
-                                            <h4 class="panel-title">
-                                                <a data-toggle="collapse" data-parent="#accordion3" href="#collapse13" class="collapsed">
-                                                    Frequently Asked Questions
-                                                </a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapse13" class="panel-collapse collapse">
-                                            <div class="panel-body">
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium amet ea dicta neque, ut quis omnis quos nam, pariatur, minus, fugit suscipit aspernatur sint ullam quas explicabo. Alias, officiis, dolor!
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> 
+                               
 
                             </div>
 
