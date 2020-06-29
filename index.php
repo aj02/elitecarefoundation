@@ -494,12 +494,12 @@ within the brain. It’s critical for those ...
                     <div class="carousel-inner">
                         <div class="item active">
                             <div class="media">
-                                <div class="photo-link-wrap with_border">
+                                <!--div class="photo-link-wrap with_border">
                                 	<a href="#" class="photo-link">
                                         <img class="media-object" src="images/team/team6.jpg" alt="">
                                         <span class="btn-type2 bg-2 zoom-btn"></span>
                                     </a>
-                                </div>
+                                </div-->
                                 
                                 <div class="media-body">
                                     <h4 class="with_border_pseudo"><strong>Rahul Kute</strong></h4>
@@ -522,46 +522,18 @@ Foundation.
                             </div>
                         </div>
 
-                        <div class="item ">
-                            <div class="media">
-                                <div class="photo-link-wrap with_border">
-                                	<a href="#" class="photo-link">
-                                        <img class="media-object" src="images/team/team6.jpg" alt="">
-                                        <span class="btn-type2 bg-2 zoom-btn"></span>
-                                    </a>
-                                </div>
-                                
-                                <div class="media-body">
-                                    <h4 class="with_border_pseudo"><strong>Rahul Kute</strong></h4>
-                                    <!-- <div></div> -->
-                                    <span class="grey">Founder and CEO</span>
-                                    <div class="member-social">
-                                        <a href="#" class="social-icon img-bg-icon rounded-icon soc-facebook"></a>
-                                        <a href="#" class="social-icon img-bg-icon rounded-icon soc-twitter"></a>
-                                        <a href="#" class="social-icon img-bg-icon rounded-icon soc-skype"></a>
-                                    </div>
-                                    <p>
-                                    	I am proud to lead a team of talented and dedicated professionals who possess a wealth of
-knowledge and expertise. I am even more proud of the degree to which these professionals are
-focused on providing individuals care in an atmosphere of, dignity, and respect.
-This focus on personalized compassionate care is at the core of everything we do at Elite Care
-Foundation.
-                                    </p>
-                                    <a href="#" class="theme_button inverse">View Profile</a>
-                                </div>
-                            </div>
-                        </div>
+                        
                     </div>
 
                     <!-- Controls -->
-                    <div class="team-carousel-nav">
+                    <!--div class="team-carousel-nav">
                     	<a class="left carousel-control" href="#team-carousel" role="button" data-slide="prev">
                             <span class="rt-icon2-angle-left"></span>
                         </a>
                         <a class="right carousel-control" href="#team-carousel" role="button" data-slide="next">
                             <span class="rt-icon2-angle-right"></span>
                         </a>
-                    </div>
+                    </div-->
                     
 
                 </div>
