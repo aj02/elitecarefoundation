@@ -69,19 +69,19 @@ National Suicide Prevention Lifeline at <strong>022 2754 6669</strong>.
 If you are unable to call Elite Care Foundation at <strong>(+91) 81692 40736/75064 13513 </strong>please use the form
 provided below to submit a confidential message to our admissions staff. We will respond as
 soon as possible.
-</li><li>
+</li>
+<!--li>
 Please note that by leaving your contact information in the space provided, you consent to allow
 Elite Care Foundation to use this information to contact you. 
 </li>
 <li>
-Any information provided will
-remain confidential. Please note that by choosing to not leave your information, the staff at Elite
+Any information provided will remain confidential. Please note that by choosing to not leave your information, the staff at Elite
 Care Foundation will not contact you.
-</li>
+</li-->
 
 </ul>
-<small>Disclaimer*: Elite Care Foundation disclaims any liability, loss, or risk sustained directly or
-indirectly as a consequence of any actions you take with this form.</small>
+<!--small>Disclaimer*: Elite Care Foundation disclaims any liability, loss, or risk sustained directly or
+indirectly as a consequence of any actions you take with this form.</small-->
 					</p>
                 </div>
             </div>
