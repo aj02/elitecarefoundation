@@ -382,12 +382,12 @@ abusing without risk to their health or wellbeing.
 		<div class="row">
 			<div class="col-xs-12">
 
-				<div id="team-carousel" class="carousel slide" style="max-width:100%;">
+				<div id="team-carousel" class="carousel slide" >
                     
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner">
                         <div class="item active">
-                            <div class="media">
+                            <div class="media" style="max-width:100%;">
                                 <!--div class="photo-link-wrap with_border">
                                 	<a href="#" class="photo-link">
                                         <img class="media-object" src="images/team/team6.jpg" alt="">
