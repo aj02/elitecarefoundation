@@ -22,9 +22,9 @@
             </div>
             <div class="col-lg-2 col-xs-5 text-right">
                 <div class="header-contacts">
-                    <a href="#" class="social-icon img-bg-icon rounded-icon soc-facebook"></a>
+                    <!--a href="#" class="social-icon img-bg-icon rounded-icon soc-facebook"></a>
                     <a href="#" class="social-icon img-bg-icon rounded-icon soc-youtube"></a>
-                    <a href="#" class="social-icon img-bg-icon rounded-icon soc-instagram"></a>
+                    <a href="#" class="social-icon img-bg-icon rounded-icon soc-instagram"></a-->
                     <p>
 						
 						Call 24/7 or 
