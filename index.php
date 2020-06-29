@@ -382,7 +382,7 @@ abusing without risk to their health or wellbeing.
 		<div class="row">
 			<div class="col-xs-12">
 
-				<div id="team-carousel" class="carousel slide">
+				<div id="team-carousel" class="carousel slide" style="max-width:100%;">
                     
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner">
