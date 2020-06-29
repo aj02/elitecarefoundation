@@ -58,10 +58,10 @@ include("includes/header.php");
 	    	</div>
 	    </div>
 		<div class="row">
-			<div class="col-md-6">
+			<!--div class="col-md-6">
 			    <img src="images/gallery/gallery12.jpg" alt="">
-			</div>
-			<div class="col-md-6">
+			</div-->
+			<div class="col-md-12">
 				<div class="abot-cont padding-b60 padding-t60">
 				    <p>
 					Our mission inspired by <strong>MINISTRY OF SOCIAL JUSTICE AND EMPOWERMENT (GOV. OF
