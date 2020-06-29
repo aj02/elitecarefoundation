@@ -6,6 +6,7 @@
 <?php 
 include("includes/head.php");
 ?>
+	Hi
 <body>
 
     <div class="preloader">
