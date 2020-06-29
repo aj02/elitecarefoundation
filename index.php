@@ -411,7 +411,7 @@ focused on providing individuals care in an atmosphere of, dignity, and respect.
 This focus on personalized compassionate care is at the core of everything we do at Elite Care
 Foundation.
                                     </p>
-                                    <a href="#" class="theme_button inverse">View Profile</a>
+                                    <a href="rahul_kute.php" class="theme_button inverse">View Profile</a>
                                 </div>
                             </div>
                         </div>
