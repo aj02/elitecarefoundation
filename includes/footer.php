@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <div class="open-hours">
+                <div class="open-hours" style="max-width:100%;">
                     <h3 class="widget-title">Open Hours</h3>
                     <div>Monday - Friday <span>9am - 6pm</span></div>
                     <div>Saturday <span>9am - 6pm</span></div>
