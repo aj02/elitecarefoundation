@@ -4,7 +4,7 @@
     <!--[if IE]>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <![endif]-->
-    <meta name="description" content="">
+    <meta name="description" content="Elite Care Foundation is able to offer patients in our recovery program the medical and mental health support needed to ensure that they can withdraw from the substances they have been abusing without risk to their health or wellbeing.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
