@@ -1,7 +1,7 @@
 <footer class="page_footer ls">
     <div class="container">
         <div class="row">
-            <div class="col-md-12 text-center">
+            <div class="col-md-6 text-center">
                 <div class="open-hours" style="max-width:100%;">
                     <h3 class="widget-title">Open Hours</h3>
                     <div>Monday - Friday <span>9am - 6pm</span></div>
@@ -30,6 +30,16 @@
 		    
 		</div>
             </div-->
+		<div class="col-md-6">
+                <div class="widget widget_mailchimp">
+		    
+		    <h3 class="widget-title">Newsletter</h3>
+			<p>Dalal Farm House, opp. Bharat Gas, Mhaskal Rd, Near Ganesh Temple, Titwala, Maharashtra 421605</p>
+		    
+		</div>
+            </div>
+		
+		
         </div>
     </div>
     <img src="images/elite_care_foundation_logo.png" alt="Chiroplastic logo" class="logo-footer site-logo">
