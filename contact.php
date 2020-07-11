@@ -66,8 +66,7 @@ form and call <strong>102</strong>.
 If you feel that you are a danger to yourself, please pause filling out this form and contact the
 National Suicide Prevention Lifeline at <strong>022 2754 6669</strong>.
 </li><li>
-If you are unable to call Elite Care Foundation at <strong>(+91) 81692 40736/75064 13513 </strong>please use the form
-provided below to submit a confidential message to our admissions staff. We will respond as
+If you are unable to call Elite Care Foundation at <strong>(+91) 81692 40736/75064 13513 </strong>please use Email Id to send a confidential message to our admissions staff. We will respond as
 soon as possible.
 </li>
 <!--li>
