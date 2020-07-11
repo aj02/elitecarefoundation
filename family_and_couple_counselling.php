@@ -66,7 +66,7 @@ include("includes/header.php");
                         
                         <img src="images/jude-beck-a-nWU0o73r4.jpg" alt="">
                         <div class="media-links">
-                            <a href="blog_post.html" class="abs-link"></a>
+                            <!--a href="blog_post.html" class="abs-link"></a-->
                         </div>
                     </div>
                     <div class="single-item-body padding-b0">
