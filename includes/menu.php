@@ -48,7 +48,7 @@ Contact Us
                                     <a href="types_of_drugs.php">Type of Drugs</a>
                                 </li>
                                 <li>
-                                    <a href="therapy.php">Therapy</a>
+                                    <!--a href="therapy.php">Therapy</a-->
                                 </li>
                                 
                             </ul>  
