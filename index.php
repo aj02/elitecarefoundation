@@ -222,7 +222,7 @@ abusing without risk to their health or wellbeing.
                             </div>
                         </div>
                         <h2>
-                        	<a href="#" class="text-uppercase">Therapy</a>
+                        	<a href="therapy.php" class="text-uppercase">Therapy</a>
                         </h2>
                         <p>
                         	Building skills and tools that are necessary for life post treatment.
@@ -238,7 +238,7 @@ abusing without risk to their health or wellbeing.
                             </div>
                         </div>
                         <h2>
-                        	<a href="#" class="text-uppercase">Detox Program</a>
+                        	<a href="detox.php" class="text-uppercase">Detox Program</a>
                         </h2>
                         <p>
                         	Medically supported detox and withdrawal, if needed.
@@ -254,7 +254,7 @@ abusing without risk to their health or wellbeing.
                             </div>
                         </div>
                         <h2>
-                        	<a href="#" class="text-uppercase">CBT</a>
+                        	<a href="cognitive_behavioural_theory.php" class="text-uppercase">CBT</a>
                         </h2>
                         <p>
                         	Individual therapies, such as cognitive behavioral therapy (CBT).
@@ -270,7 +270,7 @@ abusing without risk to their health or wellbeing.
                             </div>
                         </div>
                         <h2>
-                        	<a href="#" class="text-uppercase">Counseling</a>
+                        	<a href="family_and_couple_counselling.php" class="text-uppercase">Counseling</a>
                         </h2>
                         <p>
                         	Family or couples counseling.
@@ -286,7 +286,7 @@ abusing without risk to their health or wellbeing.
                             </div>
                         </div>
                         <h2>
-                        	<a href="#" class="text-uppercase">Rehab</a>
+                        	<a href="residential_rehabilitation.php" class="text-uppercase">Rehab</a>
                         </h2>
                         <p>
                         	Medically supported maintenance care, if needed.
